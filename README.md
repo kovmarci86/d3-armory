@@ -1,5 +1,5 @@
-d3-armory
-=========
+D3-armory-library
+=================
 
 An easy to use Diablo 3 Java library
 
