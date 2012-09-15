@@ -12,3 +12,9 @@ Status:
 Entities are done for HeroProfile and CareerProfile.
 Service ready to retrieve these entities.
 There may be duplications for entities, because the 'Java Class from example JSON' generator created duplicate classes.
+
+
+License
+=======
+GNU GPL
+http://www.gnu.org/copyleft/gpl.html
